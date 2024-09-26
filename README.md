@@ -1,2 +1,2 @@
-# rabbitmqctl
-rabbitmqctl use shell to test rabbitmq
+# rocketmqctl
+rocketmqctl use shell to test rabbitmq
